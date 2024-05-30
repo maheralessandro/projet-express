@@ -1,0 +1,12 @@
+.nav {
+    border: 1px solid black;
+    background-color: rgb(66, 66, 248);
+    display: flex;
+    justify-content: space-around;
+    padding: 20;
+}
+
+.lin{
+    font-size: large;
+    color: aliceblue;
+}
